@@ -1,7 +1,14 @@
-// Following Projects have been already taken
-Library Management System
-Crime Management System
-Event Management System
-Hospital Management and Appointment System Automation
-
-
+No	Students	Project Title
+1	Soner Karaevli	Library Management System
+	Safa Muhammed Karaca	
+	Mehmet Öksüz  	
+2	Mustafa Aru	Crime Management System
+3	Elif Teke	Event Management System
+	Eif Yilmaz	
+4	Edanur ANLAYAN	Hospital Management and Appointment System Automation
+	Merve Aşıkuzunoğlu 	
+	Zeynep Kamiloğlu 	
+5	Isma Aelluttafi BENLAEHNAEH	Restaurant Management System
+6	Nurullah Güneş	Game Store
+	Muhammed Zeki Elkatmış	
+	Ahmet Civelek	
