@@ -1,0 +1,7 @@
+// Following Projects have been already taken
+Library Management System
+Crime Management System
+Event Management System
+Hospital Management and Appointment System Automation
+
+
