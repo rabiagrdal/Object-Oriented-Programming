@@ -9,6 +9,11 @@ No	Students	Project Title
 	Merve Aşıkuzunoğlu 	
 	Zeynep Kamiloğlu 	
 5	Isma Aelluttafi BENLAEHNAEH	Restaurant Management System
+	Gokhan Aksoy
+	
 6	Nurullah Güneş	Game Store
 	Muhammed Zeki Elkatmış	
 	Ahmet Civelek	
+7  	Muhammad Faruk Eram	Military Management System
+8 	Elif Nur Deniz		Real estate Management System
+	Anisa	Doc	
