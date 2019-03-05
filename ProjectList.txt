@@ -9,11 +9,13 @@ No	Students	Project Title
 	Merve Aşıkuzunoğlu 	
 	Zeynep Kamiloğlu 	
 5	Isma Aelluttafi BENLAEHNAEH	Restaurant Management System
-	Gokhan Aksoy
-	
 6	Nurullah Güneş	Game Store
 	Muhammed Zeki Elkatmış	
 	Ahmet Civelek	
-7  	Muhammad Faruk Eram	Military Management System
-8 	Elif Nur Deniz		Real estate Management System
-	Anisa	Doc	
+7	Abdurrehman Jallow	Online Appointment System for Hospitals
+8	Muhammad Faruk Eram 	Military Management System
+9	Elif Nur Deniz 	 Real estate Management System
+	 Anisa Doc	
+10	Şeyma Nur FIRAT	Hotel Management System 
+	Pınar Bedir	
+	Hilal Adıgüzel	
