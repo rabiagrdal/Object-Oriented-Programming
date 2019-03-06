@@ -12,8 +12,8 @@ No	Students	Project Title
 6	Nurullah Güneş	Game Store
 	Muhammed Zeki Elkatmış	
 	Ahmet Civelek	
-7	Abdurrehman Jallow	Online Appointment System for Hospitals
-8	Muhammad Faruk Eram 	Military Management System
+7	Abdurrehman Jallow	Electronic Medical Record Management
+	8	Muhammad Faruk Eram 	Military Management System
 9	Elif Nur Deniz 	 Real estate Management System
 	 Anisa Doc	
 10	Şeyma Nur FIRAT	Hotel Management System 
