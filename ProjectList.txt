@@ -20,3 +20,6 @@ No	Students	Project Title
 	Pınar Bedir	
 	Hilal Adıgüzel	
 11	Ayeh Meydani 	POS Point of Sale
+12	Emine Aydın	British Museum
+	Zeyneb Esra Öztürk	
+
