@@ -19,3 +19,4 @@ No	Students	Project Title
 10	Şeyma Nur FIRAT	Hotel Management System 
 	Pınar Bedir	
 	Hilal Adıgüzel	
+11	Ayeh Meydani 	POS Point of Sale
