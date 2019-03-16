@@ -1,40 +1,48 @@
 No	Students	Project Title
 
-0	Example Project		Student Management System
+0	Example Project			Student Management System
 
-1	Soner Karaevli	Library Management System
+1	Soner Karaevli			Library Management System
 	Safa Muhammed Karaca	
+	
 	Mehmet Öksüz  	
-2	Mustafa Aru	Crime Management System
-3	Elif Teke	Event Management System
+2	Mustafa Aru			Police  Management System
+
+3	Elif Teke			Event Management System
 	Eif Yilmaz	
-4	Edanur ANLAYAN	Hospital Management and Appointment System Automation
+4	Edanur ANLAYAN			Hospital Management and Appointment System Automation
 	Merve Aşıkuzunoğlu 	
 	Zeynep Kamiloğlu 	
+	
 5	Isma Aelluttafi BENLAEHNAEH	Restaurant Management System
-6	Nurullah Güneş	Game Store
+
+6	Nurullah Güneş			Game Store
 	Muhammed Zeki Elkatmış	
 	Ahmet Civelek	
-7	Abdurrehman Jallow	Electronic Medical Record Management
-	8	Muhammad Faruk Eram 	Military Management System
-9	Elif Nur Deniz 	 Real estate Management System
+7	Abdurrehman Jallow		Electronic Medical Record Management
+
+8	Muhammad Faruk Eram 		Book store & Cafe Management system
+
+9	Elif Nur Deniz 	 		Real estate Management System
 	 Anisa Doc	
-10	Şeyma Nur FIRAT	Hotel Management System 
+10	Şeyma Nur FIRAT			Hotel Management System 
 	Pınar Bedir	
 	Hilal Adıgüzel	
-11	Ayeh Meydani 	Rail Reservation System
-12	Emine Aydın	British Museum
+11	Ayeh Meydani 			Rail Reservation System
+12	Emine Aydın			British Museum
 	Zeyneb Esra Öztürk
-13	Fatih Karaman	Cinema Booking System
+13	Fatih Karaman			Cinema Booking System
 
-14	Ramzan Emre	Car Parking System
+14	Ramzan Emre			Car Parking System
 	Enes Kartas
 	
-15	Ahmed Bedirhan Sagir	CITIZENSHIP AFFAIRS MANAGEMENT  SYSTEM 
+15	Ahmed Bedirhan Sagir		CITIZENSHIP AFFAIRS MANAGEMENT  SYSTEM 
 
-16 	Recep Ertuğrul EKŞİ	Airport Management System
+16 	Recep Ertuğrul EKŞİ		Airport Management System
 
 17 	Halil BOlat			Customers and Car Sales 
 	Yasin Ertaş Durgun
 	Enes Furkan Turhan
+	
+18	ibrahim aweida 			Pharmacy Management System
 
