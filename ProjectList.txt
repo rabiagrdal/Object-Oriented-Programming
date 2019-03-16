@@ -8,7 +8,7 @@ No	Students	Project Title
 	Mehmet Öksüz  	
 2	Mustafa Aru			Police  Management System
 
-3	Elif Teke			Event Management System
+3	Elif Teke			Wedding Parties Management System
 	Eif Yilmaz	
 4	Edanur ANLAYAN			Hospital Management and Appointment System Automation
 	Merve Aşıkuzunoğlu 	
