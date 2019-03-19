@@ -46,3 +46,5 @@ No	Students	Project Title
 	
 18	ibrahim aweida 			Pharmacy Management System
 
+19      Hanife Rabia Gürdal		Inventory Management System
+	Beyza Cebeci
